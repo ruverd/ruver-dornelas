@@ -5,7 +5,6 @@ export const Container = styled.div`
   flex-direction: row;
   width: 100vw;
   height: 100vh;
-  border: 1px solid red;
 `;
 
 export const NavContainer = styled.div`
@@ -14,7 +13,6 @@ export const NavContainer = styled.div`
   justify-content: space-around;
   align-items: center;
   padding-left: 40px;
-  border: 1px solid black;
 
   img {
     min-width: 24px;
@@ -60,7 +58,6 @@ export const Profile = styled.div`
   display: flex;
   justify-content: flex-end;
   flex-grow: 1;
-  border: 1px solid #ccc;
 `;
 
 export const HighlightContainer = styled.div`
