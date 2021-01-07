@@ -12,7 +12,7 @@ export const NavContainer = styled.div`
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  padding-left: 40px;
+  padding-left: 20px;
 
   img {
     min-width: 24px;
@@ -72,7 +72,7 @@ export const HighlightContainer = styled.div`
   flex-direction: column;
   flex-wrap: nowrap;
   justify-content: center;
-  padding-left: 60px;
+  padding-left: 20px;
 
   img {
     width: 1;
