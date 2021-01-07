@@ -58,6 +58,11 @@ export const Profile = styled.div`
   display: flex;
   justify-content: flex-end;
   flex-grow: 1;
+
+  img {
+    min-width: 700px;
+    min-height: 700px;
+  }
 `;
 
 export const HighlightContainer = styled.div`
