@@ -83,7 +83,7 @@ export const HighlightContainer = styled.div`
     font-weight: 200;
     letter-spacing: 0.4rem;
     padding-bottom: 1rem;
-    width: 200%;
+    width: auto;
     z-index: 1;
 
     @media (min-width: 768px) {
@@ -96,9 +96,9 @@ export const HighlightContainer = styled.div`
   }
 
   h3 {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 200;
-    width: 200%;
+    width: auto;
     margin-top: 2rem;
     border-left: 0.1rem solid #f1f1f1;
     padding-left: 1rem;
