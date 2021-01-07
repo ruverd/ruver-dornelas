@@ -70,6 +70,10 @@ export const HighlightContainer = styled.div`
   justify-content: center;
   padding-left: 60px;
 
+  img {
+    width: 1;
+  }
+
   h1 {
     font-size: 2rem;
     font-weight: 200;
