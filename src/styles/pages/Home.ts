@@ -62,6 +62,8 @@ export const Profile = styled.div`
   img {
     min-width: 300px;
     min-height: 300px;
+    max-width: 100vw;
+    max-height: 100vh;
   }
 `;
 

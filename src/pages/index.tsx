@@ -83,10 +83,8 @@ const Home: React.FC = () => (
       <Image
         src="/assets/ellipsesProfile.svg"
         alt="Ruver Dornelas"
-        width={1020}
-        height={1024}
         loading="lazy"
-        layout="intrinsic"
+        layout="fill"
       />
     </Profile>
   </Container>
