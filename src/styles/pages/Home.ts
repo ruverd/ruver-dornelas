@@ -60,8 +60,8 @@ export const Profile = styled.div`
   flex-grow: 1;
 
   img {
-    min-width: 700px;
-    min-height: 700px;
+    min-width: 300px;
+    min-height: 300px;
   }
 `;
 
